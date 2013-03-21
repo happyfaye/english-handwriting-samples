@@ -5,3 +5,5 @@ Both "Raw" images from scanned documents as well as post-processed images includ
 
 Part of the Open ICR project - for more information, see:
 http://opensource.newmediaist.com/open-source-icr.html
+
+<p>Code licensed under <a href="http://www.apache.org/licenses/LICENSE-2.0" target="_blank">Apache License v2.0</a></p>
